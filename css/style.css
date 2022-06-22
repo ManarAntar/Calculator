@@ -1,0 +1,175 @@
+body {
+    background-color: #E0EAF5;
+    text-align: center;
+}
+
+#header {
+    margin-top: auto;
+    margin-bottom: 25px;
+    color: rgb(15, 15, 126);
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 55px !important;
+}
+
+.div {
+    margin-left: 510px;
+    margin-right: 510px;
+    padding: 11px;
+    border: double;
+    border-width: 2px;
+    border-radius: 10%;
+    border-color: silver;
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 28px;
+}
+
+.div {
+    padding-left: 12.8px;
+}
+
+#out {
+    border-color: silver;
+    width: 290px;
+    height: 43px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 13%;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.877);
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9,
+#b0,
+#dot,
+#plus,
+#mult,
+#divid,
+#subt,
+#power,
+#bc,
+#bd,
+#brak,
+#braket {
+    border-width: 1px;
+    border-radius: 35%;
+    font-size: 28px;
+    padding: 14px;
+    cursor: pointer;
+    margin-right: 7px;
+    margin-left: 4px;
+    margin-bottom: 7px;
+    float: left;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9,
+#b0,
+#dot {
+    background-color: #2E77AE;
+    color: #E0EAF5;
+    border-color: #2E77AE;
+}
+
+#plus,
+#mult,
+#divid,
+#mod,
+#subt,
+#power,
+#brak,
+#braket {
+    background-color: #0d2137;
+    color: #E0EAF5;
+    border-color: #0d2137;
+}
+
+#equal,
+#equals,
+#equald,
+#equalm,
+#equalmod,
+#equalpow,
+#bc,
+#bd {
+    background-color: rgb(253, 83, 21);
+    color: #0d2846;
+    border-color: rgb(253, 83, 21);
+}
+
+#brak,
+#braket,
+#dot,
+#mult,
+#subt,
+#divid,
+#power {
+    border-width: 1px;
+    border-radius: 35%;
+    font-size: 31px;
+    padding: 14px;
+    cursor: pointer;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    float: left;
+}
+
+#equal {
+    border-width: 1px;
+    border-radius: 35%;
+    font-size: 26px;
+    padding: 16px;
+    cursor: pointer;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    float: left;
+}
+
+#mod {
+    border-width: 1px;
+    border-radius: 35%;
+    font-size: 24px;
+    padding: 14px;
+    cursor: pointer;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    float: left;
+}
+
+#dot,
+#b0 {
+    margin-left: 8px;
+}
+
+#bc,
+#bd {
+    margin-left: 40px;
+    padding: 14px;
+    font-size: 26px;
+    width: 80px;
+    height: 55px;
+    text-align: center;
+}
+
+#subt {
+    margin-left: 7px;
+    font-size: 34px;
+}
